@@ -9,7 +9,7 @@
  */
 :root {
   --animate-duration: 0.4s;
-  --animate-delay: 0.1s;
+  --animate-delay: 0.1s !important;
   --animate-repeat: 1;
 }
 .animate__animated {
